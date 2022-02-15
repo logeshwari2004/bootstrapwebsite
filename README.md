@@ -859,7 +859,7 @@ About Us-Evolution Page:
                 &copy; Copyright <strong><span>BPRD</span></strong>. All Rights Reserved
             </div>
             <div class="credits">
-                Designed by <a href="https://bootstrapmade.com/">Kaushika.A</a>
+                Designed by <a href="https://bootstrapmade.com/">Logeshwari.P</a>
             </div>
         </div>
     </footer>
